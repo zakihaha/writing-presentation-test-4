@@ -145,11 +145,18 @@ git push -u origin main
 #### Kolaborasi
 Fungsi inti dari Github selain sebagai version control system yakni collaboration. Github memudahkan para developer untuk mengerjakan suatu project secara bersama-sama. Cara berkolaborasi:
 1. Siapkan sebuah repository, masuk ke tab Settings -> Collaborators.
+![image](https://user-images.githubusercontent.com/49114801/195991736-2aebdb8f-d045-4897-9be2-edef5f720137.png)
+
 2. Klik tombol Add people, undang teman menggunakan email atau username Github.
+![image](https://user-images.githubusercontent.com/49114801/195991748-95829178-6e6d-4a2a-bbe4-76a2ae038242.png)
+
 3. Buat branch masing-masing sesuai dengan naming convention yang telah disepakati.
+![image](https://user-images.githubusercontent.com/49114801/195991786-cb123f71-3896-42d1-80e4-ef020b57f86d.png)
+
 4. Start coding.
 5. Lakukan push di branch masing-masing.
 6. Kirim pull request apabila ingin merge ke branch utama.
+![image](https://user-images.githubusercontent.com/49114801/195991835-5729df5e-2307-420d-8605-9fcda231b542.png)
 
 ## Responsive Web Design
 ### Pengertian
@@ -189,8 +196,13 @@ h1 {
 ```
 Hasilnya adalah ketika tampilan:
 1. Desktop (lebih besar dari 768px) - Tag h1 memliki ukuran 72px.
+![image](https://user-images.githubusercontent.com/49114801/195991908-2cf51a81-86f4-491a-9b2a-3266a0ed6ba1.png)
+
 2. Tablet (antara 768px - 576px) - Tag h1 memliki ukuran 42px dan berwarna merah.
+![image](https://user-images.githubusercontent.com/49114801/195991922-58bdaf54-07d8-4490-be22-ba0588cc560a.png)
+
 3. Smartphone (dibawah 576px) - Tag h1 memliki ukuran 32px dan berwarna blue.
+![image](https://user-images.githubusercontent.com/49114801/195991929-4f1d07c2-a916-4f64-a4da-26bda5f0cc54.png)
 
 ## Boostrap 5
 ### Pengertian
